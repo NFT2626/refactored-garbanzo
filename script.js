@@ -537,7 +537,7 @@
     }
 
     p.draw = () => {
-      p.background("#e9e0d6");
+      p.background("#608397");
       p.translate(
         (p.width - (app_gen.xdim + 2) * scale) / (row_length + 1),
         (p.height - (app_gen.ydim + 2) * scale) / 6

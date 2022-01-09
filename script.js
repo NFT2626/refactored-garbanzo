@@ -430,11 +430,11 @@
 
   const sketch = (p) => {
     let app_gen, apparata;
-    const number_of_apparata = 18;
+    const number_of_apparata = 15;
     const scale = 5;
-    const shuffle = 150;
+    const shuffle = 90;
     let tick = 0;
-    const final_frame_duration = 100;
+    const final_frame_duration = 150;
     let symmetric_assembly = true;
     const movement_length = 0.8;
     const row_length = 6;

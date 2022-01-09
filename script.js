@@ -444,8 +444,8 @@
       p.background("#ffffff");
       p.fill(0);
       p.frameRate(60);
-      p.strokeWeight(1.5);
-      p.stroke("#ffff");
+      p.strokeWeight(1.7);
+      p.stroke("#000000");
 
       apparata = [];
       app_gen = new index(25, 35, {

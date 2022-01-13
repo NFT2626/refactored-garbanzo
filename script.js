@@ -440,7 +440,7 @@
     const row_length = 6;
 
     p.setup = () => {
-      p.createCanvas(1600, 1200);
+      p.createCanvas(650, 600);
       p.background("#ffffff");
       p.fill(0);
       p.frameRate(60);
